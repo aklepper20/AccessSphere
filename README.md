@@ -1,15 +1,17 @@
 # AccessSphere
 AccessSphere is an innovative social networking platform dedicated to empowering individuals with disabilities. Built on the principles of inclusivity and accessibility, it serves as a digital meeting place for sharing experiences, knowledge, and support. Developed using modern web technologies, AccessSphere offers an array of features specifically designed to cater to the unique needs of the disability community.
 
-# Features
-Accessible Design: Ensuring full accessibility with screen reader compatibility, high contrast modes, voice navigation, and alternative text for images.
-Community Engagement: Forums and groups for users to discuss various disabilities, exchange experiences, and offer support.
-Resource Center: A hub for disability-related resources, including articles, videos, and legal information.
-Events Calendar: Keeps the community informed about upcoming events, workshops, and meetings.
-Private and Secure Communication: Encrypted messaging for private conversations.
-Customizable Interface: Users can tailor the UI to their specific needs, enhancing their experience.
-Language and Sign Language Support: Includes translation features and sign language video options.
-User Profiles: Allow users to create detailed profiles, including information about their disabilities if they choose to share, interests, and support needs.
+## Features
+
+👤 **User Profiles**: Create detailed profiles, including information about your disabilities (if you choose to share), along with your interests and support needs.
+
+🤝 **Community Engagement**: Join forums and groups for users to discuss various disabilities, exchange experiences, and offer support.
+
+📚 **Resource Center**: Access a hub for disability-related resources, including articles, videos, and legal information.
+
+📅 **Events Calendar**: Stay informed about upcoming events, workshops, and meetings.
+
+🔒 **Private and Secure Communication**: Enjoy encrypted messaging for private conversations.
 
 # Technology Stack
 Frontend: Built using React for a dynamic, user-friendly interface.
